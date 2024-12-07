@@ -1,7 +1,9 @@
 // Etch-a-Sketch Logic
 function draw(e) {
-    let target = e.target;
-    target.style.opacity = +(target.style.opacity) + 0.1;
+    if (e.buttons == 1){
+        let target = e.target;
+        target.style.opacity = +(target.style.opacity) + 0.1;
+    }
 }
 
 function clear() {

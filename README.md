@@ -10,10 +10,6 @@ After introducing additional JavaScript concepts, the main goal of this project 
 
 **Webpage responsiveness: THIS PROJECT WILL NOT DISPLAY PROPERLY ON A MOBILE PHONE.**
 
-### **Note:**
-
-Because the drawing mechanic utilizes the "mouseenter" event, you will need to use "Right-Click" in order to navigate the drawing board without actually "drawing".
-
 ### **Attribution:**
 
 Please see the "attribution.md" file within the repository for links and credits to images used in the project.
